@@ -1,0 +1,187 @@
+{
+  "PSI3and4": {
+    "id": "PSI3and4",
+    "title": "Presentation & Communication Skills",
+    "summary": "IT-PSI: PRESENTATION SKILLS OF IT covers core learning frameworks including communication skills, speaking and delivery, and practical application, as well as active listening, BLUF messaging, feedback loops, voice modulation, body language, and audience engagement.",
+    "sections": [
+      {
+        "heading": "CORE LEARNING FRAMEWORK",
+        "paragraphs": [
+          "IT-PSI: PRESENTATION SKILLS OF IT",
+          "SG 3 & 4: Presentation & Communication Skills"
+        ],
+        "list": [
+          "PILLAR 01: Communication Skills - 1. Active Listening: Paraphrasing requirements and eliminating distractions.",
+          "PILLAR 01: Communication Skills - 2. BLUF Messaging: Placing key results first; using everyday analogies.",
+          "PILLAR 01: Communication Skills - 3. Feedback Loops: Applying the Situation-Behavior-Impact model.",
+          "PILLAR 02: Speaking & Delivery - 1. Voice Modulation: Varying pitch, strategic pauses, and clear pacing.",
+          "PILLAR 02: Speaking & Delivery - 2. Non-Verbal Cues: Upright stance, open gestures, and 3-second eye contact.",
+          "PILLAR 02: Speaking & Delivery - 3. Audience Engagement: Problem-first hooks, interaction checks, and honest Q&A.",
+          "PILLAR 03: Practical Application - 1. Outage Challenge: Simulating real-time incident reports in small triads.",
+          "PILLAR 03: Practical Application - 2. Peer Evaluation: Scoring partners on clarity, listening, and voice projection.",
+          "PILLAR 03: Practical Application - 3. Iterative Refinement: Incorporating immediate peer feedback for improvement."
+        ]
+      },
+      {
+        "heading": "ACTIVE LISTENING: THE 4 STRUCTURAL RULES",
+        "paragraphs": [],
+        "list": [
+          "1. Paraphrase Core Requirements: Restate technical requirements in your own words before coding to verify logic and eliminate false assumptions.",
+          "02. Eliminate Digital Distractions: Close open IDE tabs, mute mobile devices, and focus entirely on the client or team member speaking.",
+          "03. Ask Probing Clarifications: Uncover unstated edge cases by asking targeted questions like: \\\"What happens if user traffic spikes 500%?\\\"",
+          "04. Practice Non-Verbal Attending: Maintain steady eye contact, nod purposefully, and lean slightly forward to show genuine interest."
+        ]
+      },
+      {
+        "heading": "CONCISE TECHNICAL REPORTING: BLUF METHOD",
+        "paragraphs": [
+          "BLUF (Bottom Line Up Front) restructures technical reports so non-technical stakeholders instantly grasp the key outcome."
+        ],
+        "list": [
+          "Definition: BLUF (Bottom Line Up Front) restructures technical reports so non-technical stakeholders instantly grasp the key outcome.",
+          "STAGE 01: Bottom Line Result: State the primary outcome, outage status, or recommendation in the very first sentence.",
+          "STAGE 02: Essential Context: Provide high-level context without drowning the listener in low-level code or database logs.",
+          "STAGE 03: Next Action & Ownership: Conclude with clear action items, designated lead owners, and precise delivery deadlines."
+        ]
+      },
+      {
+        "heading": "CONVERTING TECHNICAL TERMS TO EVERYDAY ANALOGIES",
+        "paragraphs": [],
+        "list": [
+          "IT Concept: API | Too Technical (Avoid with Clients) ❌: An interface exposing software endpoints over HTTP protocol. | Plain English Analogy (Use This) ✔️: Restaurant Waiter: Takes customer orders to kitchen and returns food.",
+          "IT Concept: Database | Too Technical (Avoid with Clients) ❌: A relational indexed query store maintaining ACID compliance. | Plain English Analogy (Use This) ✔️: Digital Filing Cabinet: Systematically organizes records for fast retrieval.",
+          "IT Concept: Firewall | Too Technical (Avoid with Clients) ❌: A packet-filtering network security system inspecting inbound ports. | Plain English Analogy (Use This) ✔️: Building Security Guard: Verifies permits before allowing entry.",
+          "IT Concept: Cloud Server | Too Technical (Avoid with Clients) ❌: Virtual machine instances allocated dynamically on remote hypervisors. | Plain English Analogy (Use This) ✔️: Power Grid Rental: Paying for electrical power consumed rather than building a generator."
+        ]
+      },
+      {
+        "heading": "STRUCTURED PEER FEEDBACK: THE SBI FRAMEWORK",
+        "paragraphs": [],
+        "list": [
+          "S - SITUATION: 1. Anchor Context - Specify the exact moment, meeting, slide, or code review section. Example: \\\"During slide 3 of the system architecture presentation...\\\"",
+          "B - BEHAVIOR: 2. Describe Action - Point out observable facts without criticizing personal character. Example: \\\"...you spoke rapidly and used technical acronyms without defining them...\\\"",
+          "I - IMPACT: 3. Explain Result - Highlight how the behavior affected stakeholder understanding. Example: \\\"...which caused non-technical team members to lose focus.\\\""
+        ]
+      },
+      {
+        "heading": "VOICE MODULATION & VOCAL DELIVERY PILLARS",
+        "paragraphs": [],
+        "list": [
+          "1. Dynamic Pitch: Vary vocal pitch to highlight breakthroughs, critical system warnings, and key outcomes. Avoid monotone lectures.",
+          "2. Strategic Pauses: Insert deliberate 2-second pauses after key takeaways to allow listeners time to digest technical points.",
+          "3. Controlled Pacing: Maintain 130–150 words per minute. Slow down deliberately when showing code snippets or system diagrams.",
+          "4. Clear Enunciation: Pronounce IT acronyms crisply (e.g., A-P-I, S-Q-L) so audience members do not mishear critical terms."
+        ]
+      },
+      {
+        "heading": "BODY LANGUAGE & NON-VERBAL PRESENCE",
+        "paragraphs": [],
+        "list": [
+          "1. Upright Confident Stance: Stand with feet shoulder-width apart. Avoid leaning on podiums or crossing arms defensively.",
+          "2. Purposeful Open Gestures: Use open hands to illustrate scale, structure, or data flow instead of pointing fingers at slides.",
+          "3. The 3-Second Eye Contact Rule: Hold direct eye contact with one individual for a full thought before transitioning to another person."
+        ]
+      },
+      {
+        "heading": "ENGAGING TECHNICAL AUDIENCES",
+        "paragraphs": [],
+        "list": [
+          "STRATEGY 01: Problem-First Hook - Begin with real human pain points before opening slide decks or terminal sessions. Opening Line: \\\"Have you ever waited 10 minutes in line due to server lag?\\\"",
+          "STRATEGY 02: Interaction Checks - Pause every 5 minutes to verify comprehension before moving to next topic modules. Check Prompt: \\\"What questions do you have regarding database queries?\\\"",
+          "STRATEGY 03: Honest Q&A Handling - Acknowledge unknown technical metrics directly and commit to a concrete follow-up date. Honest Answer: \\\"I'll verify that metric with the backend team by 4 PM.\\\""
+        ]
+      }
+    ]
+  },
+  "PSI5": {
+    "id": "PSI5",
+    "title": "Assessing Your Speaking & Presentation Skills",
+    "summary": "IT-PSI: PRESENTATION SKILLS OF IT covers assessing speaking and presentation skills through self-assessment techniques, peer feedback and constructive reviews, standard evaluation rubrics, identifying strengths and weaknesses, and practical comparisons.",
+    "sections": [
+      {
+        "heading": "Learning Objectives",
+        "paragraphs": [],
+        "list": [
+          "Self-Assess Confidently: Use simple self-evaluation techniques (like video recording and checklists) to analyze your own presentation style.",
+          "Give & Receive Peer Feedback: Use structured rubrics to give helpful, non-offensive feedback to your classmates.",
+          "Identify Strengths & Weaknesses: Create a clear personal action plan to fix weak spots and double down on your strengths."
+        ]
+      },
+      {
+        "heading": "Self-Assessment Techniques",
+        "paragraphs": [
+          "How to Evaluate Your Own Speaking Performance"
+        ],
+        "list": [
+          "1. Video & Audio Self-Recording: Record your practice sessions using your phone or laptop camera.",
+          "Why? We often don't realize how fast we talk, how many filler words we use (\"um\", \"ah\", \"like\"), or how little we look at the camera/audience until we watch ourselves.",
+          "[ Record Presentation ] ──> [ Review with Checklist ] ──> [ Identify Blind Spots ]",
+          "2. The \"3-Pass\" Review Technique: Pass 1 (Visuals Only - Muted): Watch without sound. Focus on posture, hand gestures, and eye contact.",
+          "Pass 2 (Audio Only - Eyes Closed): Listen without looking. Focus on voice clarity, tone, speed, and filler words.",
+          "Pass 3 (Full Playback): Watch normally to check overall delivery and slide timing.",
+          "3. Standardized Self-Checklists: Use a quick checklist right after speaking to rate your confidence, message clarity, and pacing on a scale of 1 to 5."
+        ]
+      },
+      {
+        "heading": "Peer Feedback & Constructive Reviews",
+        "paragraphs": [
+          "Why Peer Feedback Matters in IT: In tech companies, peer reviews are standard practice whether it's code review, design critique, or project demos. Learning how to critique presentations prepares you for real-world teamwork.",
+          "Rules for Effective Peer Feedback:"
+        ],
+        "list": [
+          "Be Specific, Not Vague: ❌ Bad: \\\"Good job!\\\" or \\\"It was boring.\\\"",
+          "✔ Good: \\\"Your explanation of the database flow was super clear, but your voice was a bit too quiet during the intro.\\\"",
+          "Focus on Behavior, Not Character: Critique the delivery and slides, not the person.",
+          "Use the \\\"Sandwich Method\\\" or \\\"SBI Model\\\": Praise (What went well) ➔ Critique (What needs improvement) ➔ Encouragement (Positive closing)."
+        ]
+      },
+      {
+        "heading": "Peer Feedback Rubric (Structured Evaluation Tool)",
+        "paragraphs": [
+          "Standard Presentation Evaluation Rubric"
+        ],
+        "list": [
+          "Clarity & Content | Developing (1 pt): Hard to follow; uses too much jargon without explanation. | Competent (2 pts): Mostly clear; main points are understood. | Exemplary (3 pts): Exceptionally clear; uses simple analogies and direct messaging.",
+          "Vocal Delivery | Developing (1 pt): Monotone voice; talks too fast or uses many filler words (\\\"um/ah\\\"). | Competent (2 pts): Good volume; steady pacing with occasional pauses. | Exemplary (3 pts): Dynamic pitch, clear enunciation, and natural pacing.",
+          "Body Language | Developing (1 pt): Avoids eye contact; stands stiffly or hides behind podium/screen. | Competent (2 pts): Periodic eye contact; comfortable stance. | Exemplary (3 pts): Strong 3-second eye contact; confident stance and natural hand gestures.",
+          "Audience Engagement | Developing (1 pt): Reads directly from slides; ignores audience. | Competent (2 pts): Keeps audience interested throughout the presentation. | Exemplary (3 pts): Starts with a strong problem hook; interacts smoothly with audience."
+        ]
+      },
+      {
+        "heading": "Identifying Strengths & Weaknesses",
+        "paragraphs": [
+          "Turning Feedback into an Action Plan"
+        ],
+        "list": [
+          "Step 1: Categorize Your Feedback: Group all comments from your self-recordings and peers into two columns: What I Do Well vs. What Needs Work.",
+          "Step 2: Recognize Common \\\"IT Presenter\\\" Traps: Common Strengths: Deep technical knowledge, good slide visuals, logical structure.",
+          "Common Weaknesses: Talking too fast, reading slides word-for-word, using too much jargon, avoiding eye contact.",
+          "Step 3: Create a 1-Page Improvement Plan: Pick ONE weakness to fix per presentation (e.g., \\\"This week, I will eliminate filler words by taking 2-second pauses instead of saying 'um'\\\")."
+        ]
+      },
+      {
+        "heading": "Practical Comparison – Self-Assessment vs. Peer Feedback",
+        "paragraphs": [
+          "How Both Methods Work Together"
+        ],
+        "list": [
+          "Main Focus | Self-Assessment: Internal awareness (checking nerves, pacing, and habits). | Peer Feedback: External perception (how the audience actually received the message).",
+          "Best Tool | Self-Assessment: Video recording + Self-Checklist. | Peer Feedback: Structured Evaluation Rubric (SBI Model).",
+          "Key Advantage | Self-Assessment: Private, low-pressure, done anytime. | Peer Feedback: Uncovers \\\"blind spots\\\" you didn't notice yourself.",
+          "Main Risk | Self-Assessment: Being too harsh or too easy on yourself. | Peer Feedback: Misunderstanding feedback if not given constructively."
+        ]
+      },
+      {
+        "heading": "Summary & Key Takeaways",
+        "paragraphs": [
+          "3 Rules to Remember for Skill Assessment"
+        ],
+        "list": [
+          "1. Record Yourself Regularly: Your phone camera is your best speaking coach. Watch your practice sessions to spot filler words and body language habits.",
+          "2. Embrace Constructive Critique: Peer feedback is not personal criticism; it is free advice to help you perform better in future thesis defenses and job interviews.",
+          "3. Focus on Incremental Growth: Don't try to fix everything at once. Pick one area (e.g., eye contact, pacing, or voice volume) to improve in every presentation."
+        ]
+      }
+    ]
+  }
+}
