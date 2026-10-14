@@ -1,188 +1,676 @@
 {
   "PSI3and4": [
     {
-      "type": "identification",
-      "question": "What core learning framework pillar is dedicated to paraphrasing requirements and eliminating distractions?",
-      "answer": "Active Listening"
+      "type": "multiple-choice",
+      "question": "According to the core learning framework, which specific activity is classified under Pillar 01: Communication Skills?",
+      "options": [
+        "Simulating real-time incident reports in small triads",
+        "Varying pitch, strategic pauses, and clear pacing",
+        "Active Listening: Paraphrasing requirements and eliminating distractions",
+        "Scoring partners on clarity, listening, and voice projection"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following describes Pillar 02: Speaking & Delivery as outlined in the core learning framework?",
+      "options": [
+        "Voice Modulation, Non-Verbal Cues, and Audience Engagement",
+        "Outage Challenge, Peer Evaluation, and Iterative Refinement",
+        "Active Listening, BLUF Messaging, and Feedback Loops",
+        "Pass 2 Audio Only, Pass 3 Full Playback, and Standardized Self-Checklists"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Under Pillar 03: Practical Application, what does the 'Outage Challenge' entail?",
+      "options": [
+        "Scoring partners on clarity, listening, and voice projection",
+        "Simulating real-time incident reports in small triads",
+        "Incorporating immediate peer feedback for improvement",
+        "Placing key results first and using everyday analogies"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary purpose of the first structural rule of active listening, which is to 'Paraphrase Core Requirements'?",
+      "options": [
+        "To close open IDE tabs and mute mobile devices",
+        "To uncover unstated edge cases by asking targeted questions",
+        "To maintain steady eye contact, nod purposefully, and lean slightly forward",
+        "To restate technical requirements in your own words before coding to verify logic and eliminate false assumptions"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the context of the 4 structural rules of active listening, what is the recommended action for rule number 2?",
+      "options": [
+        "Eliminate Digital Distractions: Close open IDE tabs, mute mobile devices, and focus entirely on the client or team member speaking",
+        "Ask Probing Clarifications: Uncover unstated edge cases by asking targeted questions",
+        "Practice Non-Verbal Attending: Maintain steady eye contact, nod purposefully, and lean slightly forward",
+        "Paraphrase Core Requirements: Restate technical requirements in your own words before coding"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which targeted question is provided as an example to uncover unstated edge cases when practicing probing clarifications?",
+      "options": [
+        "Have you ever waited 10 minutes in line due to server lag?",
+        "What happens if user traffic spikes 500%?",
+        "What questions do you have regarding database queries?",
+        "During slide 3 of the system architecture presentation, why did you speak rapidly?"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does non-verbal attending involve during active listening?",
+      "options": [
+        "Restating technical requirements in your own words before coding",
+        "Closing open IDE tabs and muting mobile devices",
+        "Maintaining steady eye contact, nodding purposefully, and leaning slightly forward to show genuine interest",
+        "Placing key results first in technical reports"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary definition and purpose of the BLUF (Bottom Line Up Front) method?",
+      "options": [
+        "Restructures technical reports so non-technical stakeholders instantly grasp the key outcome",
+        "Provides a framework for evaluating peer presentations using a grading rubric",
+        "Converts complex API endpoints into restaurant waiter analogies",
+        "Measures speaking pace to ensure it stays within 130 to 150 words per minute"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to Stage 01 of the BLUF method, what should be accomplished in the very first sentence?",
+      "options": [
+        "Provide high-level context without drowning the listener in low-level code",
+        "State the primary outcome, outage status, or recommendation",
+        "Conclude with clear action items, designated lead owners, and precise delivery deadlines",
+        "Ask a probing clarification question regarding user traffic spikes"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the focus of Stage 02 of the BLUF technical reporting method?",
+      "options": [
+        "Stating the primary outcome or outage status immediately",
+        "Providing high-level context without drowning the listener in low-level code or database logs",
+        "Concluding with clear action items and precise delivery deadlines",
+        "Paraphrasing technical requirements to eliminate false assumptions"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How does Stage 03 of the BLUF method conclude a report?",
+      "options": [
+        "By stating the primary outcome in the very first sentence",
+        "With clear action items, designated lead owners, and precise delivery deadlines",
+        "By providing essential context without low-level code or database logs",
+        "By eliminating digital distractions and closing open IDE tabs"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the plain English analogies guide, what everyday analogy is recommended for an API (Application Programming Interface)?",
+      "options": [
+        "Digital Filing Cabinet: Systematically organizes records for fast retrieval",
+        "Building Security Guard: Verifies permits before allowing entry",
+        "Restaurant Waiter: Takes customer orders to kitchen and returns food",
+        "Power Grid Rental: Paying for electrical power consumed rather than building a generator"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which IT concept is compared to a 'Digital Filing Cabinet' to explain how it systematically organizes records for fast retrieval?",
+      "options": [
+        "API",
+        "Database",
+        "Firewall",
+        "Cloud Server"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How is a firewall explained using a plain English analogy in the text?",
+      "options": [
+        "As a Restaurant Waiter taking orders to the kitchen",
+        "As a Building Security Guard who verifies permits before allowing entry",
+        "As a Power Grid Rental paying for electrical power consumed",
+        "As a Digital Filing Cabinet organizing records for fast retrieval"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What everyday analogy is used to explain a cloud server to clients instead of mentioning virtual machine instances on remote hypervisors?",
+      "options": [
+        "Restaurant Waiter",
+        "Digital Filing Cabinet",
+        "Building Security Guard",
+        "Power Grid Rental"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the SBI feedback framework, what does 'S - Situation' require you to do?",
+      "options": [
+        "Point out observable facts without criticizing personal character",
+        "Highlight how the behavior affected stakeholder understanding",
+        "Anchor Context: Specify the exact moment, meeting, slide, or code review section",
+        "Provide high-level context without drowning the listener in low-level database logs"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the core directive for 'B - Behavior' within the SBI framework?",
+      "options": [
+        "Specify the exact moment, meeting, slide, or code review section",
+        "Describe Action: Point out observable facts without criticizing personal character",
+        "Explain Result: Highlight how the behavior affected stakeholder understanding",
+        "State the primary outcome or recommendation in the first sentence"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the 'I - Impact' component of the SBI framework focus on?",
+      "options": [
+        "Explaining the result and highlighting how the behavior affected stakeholder understanding",
+        "Describing observable actions without criticizing personal character",
+        "Anchoring the context to a specific meeting, slide, or code review section",
+        "Restating technical requirements to verify logic and eliminate false assumptions"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to the voice modulation pillars, why should a speaker utilize dynamic pitch?",
+      "options": [
+        "To maintain a steady pace between 130 and 150 words per minute",
+        "To allow listeners time to digest complex technical points",
+        "To highlight breakthroughs, critical system warnings, and key outcomes while avoiding monotone lectures",
+        "To pronounce IT acronyms crisply without mishearing critical terms"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How long should strategic pauses be inserted after key takeaways to allow listeners time to digest technical points?",
+      "options": [
+        "1-second pauses",
+        "2-second pauses",
+        "3-second pauses",
+        "5-minute pauses"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the recommended controlled pacing range for a technical presentation?",
+      "options": [
+        "100–120 words per minute",
+        "130–150 words per minute",
+        "160–180 words per minute",
+        "190–210 words per minute"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why is clear enunciation emphasized in vocal delivery pillars?",
+      "options": [
+        "To ensure audience members do not mishear critical IT acronyms like A-P-I and S-Q-L",
+        "To maintain a strict pacing of 130 to 150 words per minute",
+        "To avoid leaning on podiums or crossing arms defensively",
+        "To provide a problem-first hook before opening slide decks"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What posture is recommended for an upright confident stance during a presentation?",
+      "options": [
+        "Standing with feet shoulder-width apart, avoiding leaning on podiums or crossing arms defensively",
+        "Leaning forward slightly to show genuine interest in the client speaking",
+        "Hiding behind a podium or screen while avoiding direct eye contact",
+        "Pointing fingers at slides to illustrate scale and data flow"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How should purposeful open gestures be used when presenting technical data?",
+      "options": [
+        "By crossing arms defensively to emphasize critical system warnings",
+        "By pointing fingers directly at the slides to highlight database logs",
+        "By using open hands to illustrate scale, structure, or data flow instead of pointing fingers",
+        "By maintaining steady eye contact with one individual for a full thought"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the rule regarding the 3-Second Eye Contact Rule in body language?",
+      "options": [
+        "Hold direct eye contact with one individual for a full thought before transitioning to another person",
+        "Pause every 5 minutes to verify comprehension before moving to the next module",
+        "Insert deliberate 2-second pauses after key takeaways",
+        "Check audio-only recordings for filler words and voice clarity"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the recommended opening approach when engaging technical audiences with a 'Problem-First Hook'?",
+      "options": [
+        "Start by reviewing low-level code and database logs in detail",
+        "Begin with real human pain points before opening slide decks or terminal sessions, such as asking about server lag",
+        "Ask audience members what questions they have regarding database queries",
+        "Acknowledge unknown technical metrics directly and commit to a follow-up date"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the strategies for engaging technical audiences, how often should interaction checks be performed?",
+      "options": [
+        "Every 2 minutes",
+        "Every 5 minutes to verify comprehension before moving to next topic modules",
+        "Every 10 minutes during the Q&A session",
+        "At the conclusion of Stage 03 of the BLUF method"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How should an IT presenter handle unknown technical metrics during honest Q&A sessions?",
+      "options": [
+        "Invent an everyday analogy on the spot to cover the missing data",
+        "Acknowledge unknown technical metrics directly and commit to a concrete follow-up date",
+        "Quickly move to the next slide to avoid losing stakeholder attention",
+        "Paraphrase the core requirements in your own words before coding"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "During self-assessment techniques, what is the specific focus of Pass 2 (Audio Only - Eyes Closed)?",
+      "options": [
+        "Checking overall delivery and slide timing with normal viewing",
+        "Listening without looking to focus on voice clarity, tone, speed, and filler words",
+        "Rating confidence and message clarity on a scale of 1 to 5 using a quick checklist",
+        "Categorizing feedback into columns of what is done well versus what needs work"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the purpose of Pass 3 (Full Playback) in self-assessment techniques?",
+      "options": [
+        "To listen without looking and focus purely on filler words",
+        "To watch normally to check overall delivery and slide timing",
+        "To score partners on clarity, listening, and voice projection",
+        "To eliminate digital distractions and close open IDE tabs"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What scale is used in standardized self-checklists right after speaking to rate confidence, message clarity, and pacing?",
+      "options": [
+        "A scale of 1 to 3",
+        "A scale of 1 to 5",
+        "A scale of 1 to 10",
+        "A percentage scale from 0% to 100%"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why is peer feedback highlighted as particularly important in tech companies?",
+      "options": [
+        "Because peer reviews are standard practice across code reviews, design critiques, and project demos",
+        "Because it replaces the need for self-assessment audio recordings",
+        "Because it ensures that technical acronyms are pronounced as A-P-I and S-Q-L",
+        "Because it eliminates the requirement for the BLUF method in technical reports"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What distinguishes good peer feedback from bad peer feedback according to the rules for effective peer feedback?",
+      "options": [
+        "Good feedback says 'Good job!' or 'It was boring' to encourage the speaker",
+        "Good feedback is specific (e.g., pointing out clear database flow explanations) rather than vague",
+        "Good feedback focuses on criticizing the speaker's personal character",
+        "Good feedback avoids mentioning vocal delivery or slide visuals"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What structure does the 'Sandwich Method' or 'SBI Model' follow for constructive reviews?",
+      "options": [
+        "Critique (What needs improvement) ➔ Praise (What went well) ➔ Encouragement",
+        "Praise (What went well) ➔ Critique (What needs improvement) ➔ Encouragement (Positive closing)",
+        "Situation (Context) ➔ Action (Behavior) ➔ Solution (Code fix)",
+        "Bottom Line Result ➔ Essential Context ➔ Next Action & Ownership"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the standard presentation evaluation rubric, what score is assigned for 'Clarity & Content' when a presentation is exceptionally clear and uses simple analogies and direct messaging?",
+      "options": [
+        "Developing (1 pt)",
+        "Competent (2 pts)",
+        "Exemplary (3 pts)",
+        "Advanced (4 pts)"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to the presentation evaluation rubric under 'Vocal Delivery', what characterizes a 'Developing (1 pt)' performance?",
+      "options": [
+        "Dynamic pitch, clear enunciation, and natural pacing",
+        "Good volume, steady pacing with occasional pauses",
+        "Monotone voice, talking too fast, or using many filler words ('um/ah')",
+        "Starts with a strong problem hook and interacts smoothly"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What body language behavior corresponds to a 'Developing (1 pt)' score in the evaluation rubric?",
+      "options": [
+        "Avoids eye contact, stands stiffly, or hides behind podium/screen",
+        "Periodic eye contact and comfortable stance",
+        "Strong 3-second eye contact, confident stance, and natural hand gestures",
+        "Uses open hands to illustrate scale, structure, or data flow"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How is audience engagement evaluated at the 'Competent (2 pts)' level in the standard rubric?",
+      "options": [
+        "Reads directly from slides and ignores the audience",
+        "Keeps audience interested throughout the presentation",
+        "Starts with a strong problem hook and interacts smoothly with the audience",
+        "Asks a probing clarification question about traffic spikes"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the first step when turning feedback into an action plan after gathering self-recordings and peer comments?",
+      "options": [
+        "Pick every weakness to fix simultaneously in the next presentation",
+        "Categorize your feedback into two columns: What I Do Well vs. What Needs Work",
+        "Eliminate digital distractions and close open IDE tabs",
+        "Record audio-only passages with eyes closed"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to Step 2 of turning feedback into an action plan, which of the following is commonly recognized as an 'IT Presenter' weakness?",
+      "options": [
+        "Deep technical knowledge",
+        "Good slide visuals",
+        "Talking too fast, reading slides word-for-word, and using too much jargon",
+        "Logical structure and organization"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the recommendation for creating a 1-page improvement plan in Step 3?",
+      "options": [
+        "Try to fix every single weakness identified across all categories at once",
+        "Pick ONE weakness to fix per presentation, such as eliminating filler words by taking 2-second pauses",
+        "Rely solely on peer evaluations without personal self-assessment checklists",
+        "Focus entirely on memorizing SQL acronym enunciation"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What analogy is specifically used to explain a database in plain English?",
+      "options": [
+        "Restaurant Waiter: Takes customer orders to kitchen and returns food",
+        "Digital Filing Cabinet: Systematically organizes records for fast retrieval",
+        "Building Security Guard: Verifies permits before allowing entry",
+        "Power Grid Rental: Paying for electrical power consumed rather than building a generator"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the context of active listening rule 3, which targeted question is suggested to uncover unstated edge cases?",
+      "options": [
+        "What happens if user traffic spikes 500%?",
+        "Have you ever waited 10 minutes in line due to server lag?",
+        "What questions do you have regarding database queries?",
+        "During slide 3, why did you use technical acronyms without defining them?"
+      ],
+      "answer": 0
     },
     {
       "type": "identification",
-      "question": "Which messaging technique places key results first and uses everyday analogies?",
-      "answer": "BLUF Messaging"
+      "question": "According to the core learning framework, which pillar encompasses Active Listening, BLUF Messaging, and Feedback Loops?",
+      "answer": "Pillar 01: Communication Skills"
     },
     {
       "type": "identification",
-      "question": "What is applying the situational behavior impact model?",
-      "answer": "Feedback Loops"
+      "question": "Which specific model is applied within the feedback loops of Pillar 01?",
+      "answer": "Situation-Behavior-Impact model"
     },
     {
       "type": "identification",
-      "question": "Which core learning framework pillar covers varying pitch, strategic pauses, and clear pacing?",
-      "answer": "Voice Modulation"
+      "question": "What is the title of Pillar 02 in the core learning framework?",
+      "answer": "Speaking & Delivery"
     },
     {
       "type": "identification",
-      "question": "What type of cues involve an upright stance, open gestures, and 3-second eye contact?",
-      "answer": "Non-Verbal Cues"
-    },
-    {
-      "type": "identification",
-      "question": "Which practical application component involves simulating real-time incident reports in small triads?",
+      "question": "Which component under Pillar 03 involves simulating real-time incident reports in small triads?",
       "answer": "Outage Challenge"
     },
     {
       "type": "identification",
-      "question": "What scoring activity involves partners assessing clarity, listening, and voice projection?",
-      "answer": "Peer Evaluation"
+      "question": "What is the title of Pillar 03 in the core learning framework?",
+      "answer": "Practical Application"
     },
     {
       "type": "identification",
-      "question": "What is the problem first hooks, interaction checks and honest q&a?",
-      "answer": "Audience Engagement"
-    },
-    {
-      "type": "identification",
-      "question": "Which active listening rule involves restating technical requirements in your own words before coding?",
+      "question": "What is the title of the first structural rule of active listening?",
       "answer": "Paraphrase Core Requirements"
     },
     {
       "type": "identification",
-      "question": "What active listening rule involves closing open IDE tabs and muting mobile devices?",
+      "question": "What is the second structural rule of active listening, which requires closing open IDE tabs and muting mobile devices?",
       "answer": "Eliminate Digital Distractions"
     },
     {
       "type": "identification",
-      "question": "Which active listening rule uncovers unstated edge cases by asking targeted questions like traffic spikes?",
+      "question": "Which active listening rule involves asking targeted questions like 'What happens if user traffic spikes 500%?'?",
       "answer": "Ask Probing Clarifications"
     },
     {
       "type": "identification",
-      "question": "What active listening rule involves maintaining steady eye contact, nodding purposefully, and leaning slightly forward?",
+      "question": "What is the fourth structural rule of active listening?",
       "answer": "Practice Non-Verbal Attending"
     },
     {
       "type": "identification",
-      "question": "What acronym stands for the method that restructures technical reports so non-technical stakeholders instantly grasp the key outcome?",
+      "question": "What acronym stands for 'Bottom Line Up Front' in technical reporting?",
       "answer": "BLUF"
     },
     {
       "type": "identification",
-      "question": "Which BLUF reporting stage involves stating the primary outcome or outage status in the very first sentence?",
+      "question": "In the BLUF method, what is Stage 01 called?",
       "answer": "Bottom Line Result"
     },
     {
       "type": "identification",
-      "question": "What BLUF reporting stage provides high-level context without drowning the listener in low-level code?",
+      "question": "In the BLUF method, what is Stage 02 called?",
       "answer": "Essential Context"
     },
     {
       "type": "identification",
-      "question": "Which BLUF reporting stage concludes with clear action items, designated lead owners, and precise deadlines?",
+      "question": "In the BLUF method, what is Stage 03 called?",
       "answer": "Next Action & Ownership"
     },
     {
       "type": "identification",
-      "question": "In the IT analogy guide, what interface exposing software endpoints over HTTP protocol is compared to a restaurant waiter?",
-      "answer": "API"
+      "question": "What plain English analogy is recommended when explaining an API to clients?",
+      "answer": "Restaurant Waiter"
     },
     {
       "type": "identification",
-      "question": "In the IT analogy guide, what relational indexed query store maintaining ACID compliance is compared to a digital filing cabinet?",
+      "question": "What IT concept is represented by the plain English analogy 'Digital Filing Cabinet'?",
       "answer": "Database"
     },
     {
       "type": "identification",
-      "question": "In the IT analogy guide, what packet-filtering network security system is compared to a building security guard?",
-      "answer": "Firewall"
+      "question": "What plain English analogy is recommended to explain a firewall?",
+      "answer": "Building Security Guard"
     },
     {
       "type": "identification",
-      "question": "In the IT analogy guide, what virtual machine instances allocated dynamically on remote hypervisors are compared to a power grid rental?",
+      "question": "What IT concept is compared to a 'Power Grid Rental' in everyday analogies?",
       "answer": "Cloud Server"
     },
     {
       "type": "identification",
-      "question": "In the SBI framework, what component specifies the exact moment, meeting, slide, or code review section?",
+      "question": "What framework does the acronym SBI stand for?",
+      "answer": "Situation-Behavior-Impact"
+    },
+    {
+      "type": "identification",
+      "question": "In the SBI framework, what does the letter 'S' represent?",
       "answer": "Situation"
     },
     {
       "type": "identification",
-      "question": "In the SBI framework, what component points out observable facts without criticizing personal character?",
+      "question": "In the SBI framework, what does the letter 'B' represent?",
       "answer": "Behavior"
     },
     {
       "type": "identification",
-      "question": "In the SBI framework, what component highlights how the behavior affected stakeholder understanding?",
+      "question": "In the SBI framework, what does the letter 'I' represent?",
       "answer": "Impact"
     },
     {
       "type": "identification",
-      "question": "Which vocal delivery pillar involves varying pitch to highlight breakthroughs and critical system warnings?",
+      "question": "What vocal delivery pillar involves varying pitch to highlight breakthroughs and critical system warnings?",
       "answer": "Dynamic Pitch"
     },
     {
       "type": "identification",
-      "question": "What vocal delivery pillar inserts deliberate 2-second pauses after key takeaways?",
+      "question": "What vocal delivery pillar involves inserting deliberate 2-second pauses after key takeaways?",
       "answer": "Strategic Pauses"
     },
     {
       "type": "identification",
-      "question": "Which vocal delivery pillar maintains 130 to 150 words per minute?",
+      "question": "What vocal delivery term specifies maintaining 130–150 words per minute?",
       "answer": "Controlled Pacing"
     },
     {
       "type": "identification",
-      "question": "What vocal delivery pillar ensures IT acronyms like API and SQL are pronounced crisply?",
+      "question": "What vocal delivery pillar focuses on pronouncing IT acronyms crisply like A-P-I and S-Q-L?",
       "answer": "Clear Enunciation"
     },
     {
       "type": "identification",
-      "question": "Which body language guideline requires standing with feet shoulder-width apart and avoiding leaning on podiums?",
+      "question": "What body language practice requires standing with feet shoulder-width apart and avoiding defensive crossed arms?",
       "answer": "Upright Confident Stance"
     },
     {
       "type": "identification",
-      "question": "What non-verbal presence rule uses open hands to illustrate scale or structure instead of pointing fingers?",
+      "question": "What non-verbal presence rule involves using open hands to illustrate scale, structure, or data flow?",
       "answer": "Purposeful Open Gestures"
     },
     {
       "type": "identification",
-      "question": "What specific eye contact rule involves holding direct gaze with one individual for a full thought?",
-      "answer": "The 3-Second Eye Contact Rule"
+      "question": "What body language rule requires holding direct eye contact with one individual for a full thought?",
+      "answer": "3-Second Eye Contact Rule"
     },
     {
       "type": "identification",
-      "question": "Which audience engagement strategy begins with real human pain points before opening slide decks?",
+      "question": "When engaging technical audiences, what strategy begins with real human pain points like server lag?",
       "answer": "Problem-First Hook"
     },
     {
       "type": "identification",
-      "question": "What audience engagement strategy involves pausing every 5 minutes to verify comprehension?",
+      "question": "What engagement strategy involves pausing every 5 minutes to verify comprehension?",
       "answer": "Interaction Checks"
     },
     {
       "type": "identification",
-      "question": "Which audience engagement strategy involves acknowledging unknown technical metrics directly and committing to a follow-up date?",
+      "question": "What audience engagement strategy involves acknowledging unknown technical metrics directly and committing to a follow-up date?",
       "answer": "Honest Q&A Handling"
     },
     {
       "type": "identification",
-      "question": "What self-assessment technique involves listening without looking to focus on voice clarity, tone, speed, and filler words?",
-      "answer": "Pass 2"
+      "question": "In self-assessment techniques, what name is given to Pass 2 where you listen without looking to focus on tone, speed, and filler words?",
+      "answer": "Audio Only - Eyes Closed"
     },
     {
       "type": "identification",
-      "question": "What self-assessment technique involves watching normally to check overall delivery and slide timing?",
-      "answer": "Pass 3"
+      "question": "In self-assessment techniques, what name is given to Pass 3 where you watch normally to check overall delivery and slide timing?",
+      "answer": "Full Playback"
     },
     {
       "type": "identification",
-      "question": "Which structured evaluation tool uses criteria like Clarity and Content, Vocal Delivery, Body Language, and Audience Engagement?",
-      "answer": "Peer Feedback Rubric"
+      "question": "What self-assessment tool uses a scale of 1 to 5 to rate confidence, message clarity, and pacing right after speaking?",
+      "answer": "Standardized Self-Checklists"
+    },
+    {
+      "type": "identification",
+      "question": "What alternative name is used for the SBI Model when structuring peer feedback reviews?",
+      "answer": "Sandwich Method"
+    },
+    {
+      "type": "identification",
+      "question": "In the evaluation rubric, what score level represents exceptionally clear delivery using simple analogies and direct messaging?",
+      "answer": "Exemplary"
+    },
+    {
+      "type": "identification",
+      "question": "In the evaluation rubric, what score level represents a performance that is hard to follow with too much jargon?",
+      "answer": "Developing"
+    },
+    {
+      "type": "identification",
+      "question": "In the evaluation rubric, what score level represents mostly clear main points understood by the audience?",
+      "answer": "Competent"
+    },
+    {
+      "type": "identification",
+      "question": "In Step 3 of turning feedback into an action plan, how many weaknesses should you pick to fix per presentation?",
+      "answer": "ONE"
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the pillars included in the core learning framework for IT Presentation & Communication Skills.",
+      "question": "Enumerate the three pillars comprising the Core Learning Framework for IT presentation skills.",
       "answer": [
         "Pillar 01: Communication Skills",
         "Pillar 02: Speaking & Delivery",
@@ -191,29 +679,29 @@
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the components listed under Pillar 01: Communication Skills.",
+      "question": "List the three core components listed under Pillar 01: Communication Skills in the Core Learning Framework.",
       "answer": [
-        "Active Listening: Paraphrasing requirements and eliminating distractions.",
-        "BLUF Messaging: Placing key results first; using everyday analogies.",
-        "Feedback Loops: Applying the Situation-Behavior-Impact model."
+        "Active Listening",
+        "BLUF Messaging",
+        "Feedback Loops"
       ]
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the components listed under Pillar 02: Speaking & Delivery.",
+      "question": "Enumerate the three components that make up Pillar 02: Speaking & Delivery.",
       "answer": [
-        "Voice Modulation: Varying pitch, strategic pauses, and clear pacing.",
-        "Non-Verbal Cues: Upright stance, open gestures, and 3-second eye contact.",
-        "Audience Engagement: Problem-first hooks, interaction checks, and honest Q&A."
+        "Voice Modulation",
+        "Non-Verbal Cues",
+        "Audience Engagement"
       ]
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the components listed under Pillar 03: Practical Application.",
+      "question": "List the three components outlined under Pillar 03: Practical Application.",
       "answer": [
-        "Outage Challenge: Simulating real-time incident reports in small triads.",
-        "Peer Evaluation: Scoring partners on clarity, listening, and voice projection.",
-        "Iterative Refinement: Incorporating immediate peer feedback for improvement."
+        "Outage Challenge",
+        "Peer Evaluation",
+        "Iterative Refinement"
       ]
     },
     {
@@ -228,7 +716,7 @@
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the stages of the BLUF (Bottom Line Up Front) method for concise technical reporting.",
+      "question": "List the three stages of the BLUF (Bottom Line Up Front) method for concise technical reporting.",
       "answer": [
         "Stage 01: Bottom Line Result",
         "Stage 02: Essential Context",
@@ -237,16 +725,26 @@
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the components of the Situation-Behavior-Impact (SBI) framework for structured peer feedback.",
+      "question": "Enumerate the four IT concepts paired with plain English analogies in the conversion guide.",
       "answer": [
-        "S - Situation: Anchor Context",
-        "B - Behavior: Describe Action",
-        "I - Impact: Explain Result"
+        "API",
+        "Database",
+        "Firewall",
+        "Cloud Server"
       ]
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the voice modulation and vocal delivery pillars.",
+      "question": "List the three elements of the Situation-Behavior-Impact (SBI) framework.",
+      "answer": [
+        "Situation",
+        "Behavior",
+        "Impact"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the four pillars of voice modulation and vocal delivery.",
       "answer": [
         "Dynamic Pitch",
         "Strategic Pauses",
@@ -256,7 +754,7 @@
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the rules for body language and non-verbal presence.",
+      "question": "List the three rules or components of body language and non-verbal presence.",
       "answer": [
         "Upright Confident Stance",
         "Purposeful Open Gestures",
@@ -265,132 +763,16 @@
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the strategies for engaging technical audiences.",
+      "question": "Enumerate the three strategies for engaging technical audiences.",
       "answer": [
-        "Strategy 01: Problem-First Hook",
-        "Strategy 02: Interaction Checks",
-        "Strategy 03: Honest Q&A Handling"
+        "Problem-First Hook",
+        "Interaction Checks",
+        "Honest Q&A Handling"
       ]
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the 3 rules to remember for skill assessment.",
-      "answer": [
-        "Record Yourself Regularly",
-        "Embrace Constructive Critique",
-        "Focus on Incremental Growth"
-      ]
-}
-  ],
-  "PSI5": [
-    {
-      "type": "identification",
-      "question": "What self-assessment technique involves recording practice sessions using a phone or laptop camera to spot filler words and body language habits?",
-      "answer": "Video & Audio Self-Recording"
-    },
-    {
-      "type": "identification",
-      "question": "Which review technique consists of three specific passes focusing on visuals without sound, audio without looking, and a full playback?",
-      "answer": "3-Pass Review Technique"
-    },
-    {
-      "type": "identification",
-      "question": "What standardized tool is used right after speaking to rate confidence, message clarity, and pacing on a scale of 1 to 5?",
-      "answer": "Standardized Self-Checklists"
-    },
-    {
-      "type": "identification",
-      "question": "What feedback method uses the structure of Praise, Critique, and Encouragement?",
-      "answer": "Sandwich Method"
-    },
-    {
-      "type": "identification",
-      "question": "What model acronym stands for Situation, Behavior, and Impact when giving constructive feedback?",
-      "answer": "SBI Model"
-    },
-    {
-      "type": "identification",
-      "question": "In the standard presentation evaluation rubric, what evaluation area assesses whether a speaker uses too much jargon or simple analogies?",
-      "answer": "Clarity & Content"
-    },
-    {
-      "type": "identification",
-      "question": "In the standard presentation evaluation rubric, what evaluation area covers monotone voice, talking too fast, and filler words?",
-      "answer": "Vocal Delivery"
-    },
-    {
-      "type": "identification",
-      "question": "In the standard presentation evaluation rubric, what evaluation area assesses eye contact, stance, and hand gestures?",
-      "answer": "Body Language"
-    },
-    {
-      "type": "identification",
-      "question": "In the standard presentation evaluation rubric, what evaluation area assesses whether a speaker reads directly from slides or starts with a strong problem hook?",
-      "answer": "Audience Engagement"
-    },
-    {
-      "type": "identification",
-      "question": "What feature of self-assessment focuses primarily on internal awareness such as checking nerves, pacing, and habits?",
-      "answer": "Main Focus"
-    },
-    {
-      "type": "enumeration",
-      "question": "Enumerate the learning objectives listed for assessing your speaking and presentation skills.",
-      "answer": [
-        "Self-Assess Confidently",
-        "Give & Receive Peer Feedback",
-        "Identify Strengths & Weaknesses"
-      ]
-    },
-    {
-      "type": "enumeration",
-      "question": "Enumerate the self-assessment techniques detailed for evaluating your own speaking performance.",
-      "answer": [
-        "Video & Audio Self-Recording",
-        "The \"3-Pass\" Review Technique",
-        "Standardized Self-Checklists"
-      ]
-    },
-    {
-      "type": "enumeration",
-      "question": "Enumerate the passes included in the 3-Pass Review Technique.",
-      "answer": [
-        "Pass 1 (Visuals Only - Muted)",
-        "Pass 2 (Audio Only - Eyes Closed)",
-        "Pass 3 (Full Playback)"
-      ]
-    },
-    {
-      "type": "enumeration",
-      "question": "Enumerate the rules for effective peer feedback.",
-      "answer": [
-        "Be Specific, Not Vague",
-        "Focus on Behavior, Not Character",
-        "Use the \"Sandwich Method\" or \"SBI Model\""
-      ]
-    },
-    {
-      "type": "enumeration",
-      "question": "Enumerate the evaluation areas included in the Standard Presentation Evaluation Rubric.",
-      "answer": [
-        "Clarity & Content",
-        "Vocal Delivery",
-        "Body Language",
-        "Audience Engagement"
-      ]
-    },
-    {
-      "type": "enumeration",
-      "question": "Enumerate the steps involved in turning feedback into an action plan.",
-      "answer": [
-        "Step 1: Categorize Your Feedback",
-        "Step 2: Recognize Common \"IT Presenter\" Traps",
-        "Step 3: Create a 1-Page Improvement Plan"
-      ]
-    },
-    {
-      "type": "enumeration",
-      "question": "Enumerate the common strengths of IT presenters identified in the text.",
+      "question": "Enumerate the common strengths identified for IT presenters in Step 2.",
       "answer": [
         "Deep technical knowledge",
         "Good slide visuals",
@@ -399,7 +781,7 @@
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the common weaknesses or traps of IT presenters identified in the text.",
+      "question": "List the common weaknesses identified for IT presenters in Step 2.",
       "answer": [
         "Talking too fast",
         "Reading slides word-for-word",
@@ -409,7 +791,548 @@
     },
     {
       "type": "enumeration",
-      "question": "Enumerate the rules to remember for skill assessment in the summary and key takeaways.",
+      "question": "Enumerate the three rules to remember for skill assessment summarized at the end of the module.",
+      "answer": [
+        "Record Yourself Regularly",
+        "Embrace Constructive Critique",
+        "Focus on Incremental Growth"
+      ]
+    }
+  ],
+"PSI5": [
+{
+"type": "multiple-choice",
+"question": "Which of the following best defines the primary purpose of using simple self-evaluation techniques like video recording in presentation training?",
+"options": [
+"To give offensive feedback to classmates",
+"To analyze your own presentation style confidently",
+"To score partners on clarity and voice projection",
+"To simulate real-time incident reports in triads"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "According to the self-assessment techniques, why is recording practice sessions using a phone or laptop camera particularly helpful?",
+"options": [
+"It helps evaluate external audience perception and peer reviews",
+"It uncovers blind spots regarding talk speed, filler words, and camera/audience gaze",
+"It allows real-time code reviews and system architecture demonstrations",
+"It establishes the exact moment of a system outage"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "During the 3-Pass Review Technique for self-assessment, what is the specific focus of Pass 1 (Visuals Only - Muted)?",
+"options": [
+"Voice clarity, tone, speed, and filler words",
+"Overall delivery and slide timing",
+"Posture, hand gestures, and eye contact",
+"Confidence, message clarity, and pacing"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "In the 3-Pass Review Technique, what is the correct focus of Pass 2 (Audio Only - Eyes Closed)?",
+"options": [
+"Posture and hand gestures without sound",
+"Voice clarity, tone, speed, and filler words",
+"Slide timing and visual delivery",
+"Problem-first hooks and Q&A interactions"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What is evaluated during Pass 3 (Full Playback) of the self-assessment review technique?",
+"options": [
+"External audience perception and peer critique rubrics",
+"Overall delivery and slide timing",
+"Filler word frequency without visual distractions",
+"Technical acronym pronunciation and enunciation"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Following a speaking session, what parameters are rated on a scale of 1 to 5 using a standardized self-checklist?",
+"options": [
+"Technical depth, slide visuals, and code clarity",
+"Confidence, message clarity, and pacing",
+"Pitch variation, enunciation, and volume",
+"Situation, behavior, and impact factors"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Why is peer feedback considered an essential practice in technology companies and IT presentation training?",
+"options": [
+"It mirrors real-world tech practices like code reviews, design critiques, and project demos",
+"It replaces the need for personal video recording and checklists",
+"It guarantees a 1-page personal action plan for management",
+"It eliminates the risk of being too harsh on oneself"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "When giving peer feedback, what does the rule 'Be Specific, Not Vague' advise?",
+"options": [
+"Critique the person's character instead of their delivery",
+"Avoid general remarks like 'Good job!' and instead detail specific strengths and weaknesses",
+"Use the Sandwich Method exclusively for positive reinforcement",
+"Maintain a 3-second eye contact rule during evaluations"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "According to the guidelines for effective peer feedback, what should be the primary target of critique?",
+"options": [
+"The speaker's personal character and inherent traits",
+"The delivery and slides, rather than the person",
+"The external perception of the audience's emotional state",
+"The technical knowledge gaps found in software engineering"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What are the three structural components of the Sandwich Method or SBI Model used in peer reviews?",
+"options": [
+"Bottom Line Result, Essential Context, Next Action & Ownership",
+"Praise (What went well) ➔ Critique (What needs improvement) ➔ Encouragement (Positive closing)",
+"Visuals Only ➔ Audio Only ➔ Full Playback",
+"Developing ➔ Competent ➔ Exemplary"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "In the Standard Presentation Evaluation Rubric, how is an 'Exemplary' performance in Clarity & Content characterized?",
+"options": [
+"Hard to follow; uses too much jargon without explanation",
+"Mostly clear; main points are understood",
+"Exceptionally clear; uses simple analogies and direct messaging",
+"Reads directly from slides and ignores the audience"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Which description corresponds to a 'Competent' (2 pts) rating for Vocal Delivery in the evaluation rubric?",
+"options": [
+"Monotone voice; talks too fast or uses many filler words",
+"Good volume; steady pacing with occasional pauses",
+"Dynamic pitch, clear enunciation, and natural pacing",
+"Avoids eye contact and stands stiffly"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What specific behavioral criteria defines an 'Exemplary' rating in Body Language on the rubric?",
+"options": [
+"Periodic eye contact and a comfortable stance",
+"Strong 3-second eye contact; confident stance and natural hand gestures",
+"Standing stiffly or hiding behind a podium or screen",
+"Reading directly from slides without moving"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "In the evaluation rubric, what behavior earns a 'Developing' (1 pt) score in Audience Engagement?",
+"options": [
+"Starts with a strong problem hook and interacts smoothly",
+"Keep audience interested throughout the presentation",
+"Reads directly from slides; ignores audience",
+"Uses simple analogies and direct messaging"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "When categorizing feedback to build an action plan, which of the following is identified in the text as a common 'IT Presenter' weakness?",
+"options": [
+"Deep technical knowledge",
+"Logical structure of slides",
+"Talking too fast and reading slides word-for-word",
+"Using simple analogies"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "What is the recommended scope for a 1-Page Improvement Plan when tackling presentation weaknesses?",
+"options": [
+"Try to fix all identified weaknesses simultaneously across every category",
+"Pick ONE weakness to fix per presentation (e.g., eliminating filler words with 2-second pauses)",
+"Delegate all improvements to peer evaluators using the SBI model",
+"Rely solely on video recordings without setting actionable rules"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "According to the practical comparison table, what is the primary focus of self-assessment versus peer feedback?",
+"options": [
+"Self-assessment focuses on external perception, while peer feedback focuses on internal awareness",
+"Self-assessment focuses on internal awareness (nerves, pacing, habits), while peer feedback focuses on external audience perception",
+"Both methods focus exclusively on slide visual design and code reviews",
+"Both methods focus strictly on technical acronym enunciation"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What is noted as the key risk of self-assessment in the practical comparison table?",
+"options": [
+"Misunderstanding feedback if not given constructively",
+"Being too harsh or too easy on yourself",
+"Uncovering blind spots you didn't notice yourself",
+"Relying too heavily on structured evaluation rubrics"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "According to the summary rules for skill assessment, how should peer feedback be viewed?",
+"options": [
+"As personal criticism and a judgment of character",
+"As free advice to help perform better in future thesis defenses and job interviews",
+"As a mandatory grade component determined by the instructor",
+"As an alternative to video and audio self-recording"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Under Pillar 01 of the Core Learning Framework (SG 3 & 4), what key practice is associated with Active Listening?",
+"options": [
+"Varying pitch and strategic pauses",
+"Paraphrasing requirements and eliminating distractions",
+"Simulating real-time incident reports in triads",
+"Placing key results first using everyday analogies"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "In the stages of BLUF Messaging, what is the primary objective of Stage 01 (Bottom Line Result)?",
+"options": [
+"To provide low-level code or database logs",
+"To state the primary outcome, outage status, or recommendation in the very first sentence",
+"To conclude with designated lead owners and precise delivery deadlines",
+"To apply the Situation-Behavior-Impact model"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "In the detailed breakdown of the SBI Model, what does the 'B' (Behavior) component require?",
+"options": [
+"Specifying the exact moment, meeting, slide, or code review section",
+"Pointing out observable facts without criticizing personal character",
+"Highlighting how behavior affected stakeholder understanding",
+"Varying vocal pitch to highlight system warnings"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "According to the speaking and delivery guidelines for controlled pacing, what word-per-minute target is recommended?",
+"options": [
+"80-100 words per minute",
+"130-150 words per minute",
+"180-200 words per minute",
+"220-250 words per minute"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What is the specific recommendation regarding clear enunciation when presenting IT acronyms?",
+"options": [
+"Skip acronyms entirely to avoid audience confusion",
+"Pronounce IT acronyms crisply (e.g., API, SQL) so audience members do not mishear critical terms",
+"Speak faster through acronyms to maintain slide timing",
+"Use monotone delivery during technical code explanations"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What activity is specified under Pillar 03 (Practical Application) for simulating real-time incident reports?",
+"options": [
+"The Outage Challenge in small triads",
+"The 3-Pass Review Technique with closed eyes",
+"Standardized self-checklist rating from 1 to 5",
+"The Sandwich Method peer evaluation rubric scoring"
+],
+"answer": 0
+},
+{
+"type": "identification",
+"question": "Identify the self-assessment method where practice sessions are recorded using a phone or laptop camera to catch fast speaking, filler words, and lack of audience gaze.",
+"answer": "Video & Audio Self-Recording"
+},
+{
+"type": "identification",
+"question": "What review technique involves three specific passes focusing separately on visuals without sound, audio without looking, and full playback?",
+"answer": "3-Pass Review Technique"
+},
+{
+"type": "identification",
+"question": "Identify the specific pass in the review technique that requires watching without sound with a focus on posture, hand gestures, and eye contact.",
+"answer": "Pass 1 (Visuals Only - Muted)"
+},
+{
+"type": "identification",
+"question": "Identify the specific pass in the review technique that requires listening with eyes closed to focus on voice clarity, tone, speed, and filler words.",
+"answer": "Pass 2 (Audio Only - Eyes Closed)"
+},
+{
+"type": "identification",
+"question": "Identify the third pass of the self-review technique used to check overall delivery and slide timing through normal playback.",
+"answer": "Pass 3 (Full Playback)"
+},
+{
+"type": "identification",
+"question": "What quick evaluation tool is used right after speaking to rate confidence, message clarity, and pacing on a scale of 1 to 5?",
+"answer": "Standardized Self-Checklists"
+},
+{
+"type": "identification",
+"question": "What popular evaluation model or method uses a structure of Praise, Critique, and Encouragement during peer reviews?",
+"answer": "SBI Model"
+},
+{
+"type": "identification",
+"question": "Identify the structured evaluation tool containing categories such as Clarity & Content, Vocal Delivery, Body Language, and Audience Engagement.",
+"answer": "Standard Presentation Evaluation Rubric"
+},
+{
+"type": "identification",
+"question": "In the presentation evaluation rubric, what score level corresponds to a performance that uses too much jargon without explanation or is hard to follow?",
+"answer": "Developing (1 pt)"
+},
+{
+"type": "identification",
+"question": "In the presentation evaluation rubric, what performance level represents mostly clear content and steady pacing with occasional pauses?",
+"answer": "Competent (2 pts)"
+},
+{
+"type": "identification",
+"question": "In the evaluation rubric, what performance level features exceptionally clear messaging, dynamic pitch, strong 3-second eye contact, and a strong problem hook?",
+"answer": "Exemplary (3 pts)"
+},
+{
+"type": "identification",
+"question": "What 1-page document is created after categorizing feedback to pick and fix ONE specific presentation weakness at a time?",
+"answer": "1-Page Improvement Plan"
+},
+{
+"type": "identification",
+"question": "According to the practical comparison table, what type of awareness is the main focus of self-assessment?",
+"answer": "Internal awareness"
+},
+{
+"type": "identification",
+"question": "According to the practical comparison table, what is the main focus of peer feedback?",
+"answer": "External perception"
+},
+{
+"type": "identification",
+"question": "What core framework stage requires stating the primary outcome, outage status, or recommendation in the very first sentence?",
+"answer": "Bottom Line Result"
+},
+{
+"type": "identification",
+"question": "Identify the stage of the core learning framework that provides high-level context without drowning the listener in low-level code or database logs?",
+"answer": "Essential Context"
+},
+{
+"type": "identification",
+"question": "Identify the final stage of the core framework that concludes with clear action items, designated lead owners, and precise delivery deadlines?",
+"answer": "Next Action & Ownership"
+},
+{
+"type": "identification",
+"question": "In the plain English IT analogies, what simple everyday concept represents an API?",
+"answer": "Restaurant Waiter"
+},
+{
+"type": "identification",
+"question": "What plain English analogy is used to explain a Database to clients instead of describing a relational indexed query store maintaining ACID compliance?",
+"answer": "Digital Filing Cabinet"
+},
+{
+"type": "identification",
+"question": "What building-related metaphor represents a Firewall in plain English communication?",
+"answer": "Building Security Guard"
+},
+{
+"type": "identification",
+"question": "What plain English analogy describes a Cloud Server instead of virtual machine instances allocated dynamically on remote hypervisors?",
+"answer": "Power Grid Rental"
+},
+{
+"type": "identification",
+"question": "In the SBI Model breakdown, what does the letter 'S' stand for in terms of anchoring context?",
+"answer": "Situation"
+},
+{
+"type": "identification",
+"question": "In the SBI Model breakdown, what does the letter 'B' stand for when pointing out observable facts without criticizing character?",
+"answer": "Behavior"
+},
+{
+"type": "identification",
+"question": "In the SBI Model breakdown, what does the letter 'I' stand for when highlighting how a speaker's actions affected stakeholder understanding?",
+"answer": "Impact"
+},
+{
+"type": "identification",
+"question": "What delivery guideline recommends maintaining 130 to 150 words per minute while presenting?",
+"answer": "Controlled Pacing"
+},
+    {
+      "type": "enumeration",
+      "question": "Enumerate the three primary learning objectives outlined for assessing speaking and presentation skills in IT-PSI SG 5.",
+      "answer": [
+        "Self-Assess Confidently",
+        "Give & Receive Peer Feedback",
+        "Identify Strengths & Weaknesses"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the three self-assessment techniques detailed for evaluating speaking performance.",
+      "answer": [
+        "Video & Audio Self-Recording",
+        "The \"3-Pass\" Review Technique",
+        "Standardized Self-Checklists"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the three passes comprising the 3-Pass Review Technique for self-assessment.",
+      "answer": [
+        "Pass 1 (Visuals Only - Muted)",
+        "Pass 2 (Audio Only - Eyes Closed)",
+        "Pass 3 (Full Playback)"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the specific elements focused on during Pass 1 (Visuals Only - Muted) of the review technique.",
+      "answer": [
+        "Posture",
+        "Hand gestures",
+        "Eye contact"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the specific parameters focused on during Pass 2 (Audio Only - Eyes Closed) of the review technique.",
+      "answer": [
+        "Voice clarity",
+        "Tone",
+        "Speed",
+        "Filler words"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the three metrics rated on a scale of 1 to 5 using standardized self-checklists immediately after speaking.",
+      "answer": [
+        "Confidence",
+        "Message clarity",
+        "Pacing"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the three components making up the Sandwich Method or SBI Model for constructive peer feedback.",
+      "answer": [
+        "Praise (What went well)",
+        "Critique (What needs improvement)",
+        "Encouragement (Positive closing)"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the four evaluation areas included in the Standard Presentation Evaluation Rubric.",
+      "answer": [
+        "Clarity & Content",
+        "Vocal Delivery",
+        "Body Language",
+        "Audience Engagement"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the three performance levels defined across evaluation areas in the Standard Presentation Evaluation Rubric.",
+      "answer": [
+        "Developing (1 pt)",
+        "Competent (2 pts)",
+        "Exemplary (3 pts)"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the three steps outlined for turning feedback into a personal action plan.",
+      "answer": [
+        "Categorize Your Feedback",
+        "Recognize Common \"IT Presenter\" Traps",
+        "Create a 1-Page Improvement Plan"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the common IT presenter strengths identified under common presenter traps.",
+      "answer": [
+        "Deep technical knowledge",
+        "Good slide visuals",
+        "Logical structure"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the common IT presenter weaknesses identified under common presenter traps.",
+      "answer": [
+        "Talking too fast",
+        "Reading slides word-for-word",
+        "Using too much jargon",
+        "Avoiding eye contact"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the three stages of the Core Learning Framework for presentation and communication skills (SG 3 & 4).",
+      "answer": [
+        "Bottom Line Result",
+        "Essential Context",
+        "Next Action & Ownership"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "List the four techniques for vocal delivery and speaking mastery.",
+      "answer": [
+        "Dynamic Pitch",
+        "Strategic Pauses",
+        "Controlled Pacing",
+        "Clear Enunciation"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the three rules to remember for skill assessment summarized in the takeaway section.",
       "answer": [
         "Record Yourself Regularly",
         "Embrace Constructive Critique",
